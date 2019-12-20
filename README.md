@@ -1,4 +1,3 @@
-AlgoTradingSciFi
-================
+project i did in highschool to test automatically trade using basic indicators on investopedia using Yahoo and Google Finance data
 
-create an legendary trading algo to boost profit, increase fund allocation efficiency 
+Got data ingest from Yahoo and Google to work, but was never able to login into investopedia... 
